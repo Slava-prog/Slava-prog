@@ -19,6 +19,8 @@
 С уважением,
 Шарапов Вячеслав
 
+telegram: @sharapov202
+
 <!--
 **Slava-prog/Slava-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
